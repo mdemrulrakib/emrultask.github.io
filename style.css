@@ -1,0 +1,25 @@
+
+body {
+  margin: 0;
+  padding: 0;
+}
+.menu_area {
+  padding: 0;
+  margin: 0;
+  background: #323234;
+  overflow: hidden;
+}
+.menu_area ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.menu_area ul li {
+  float: left;
+}
+.menu_area ul li a {
+  text-align: center;
+  text-decoration: none;
+  padding: 10px;
+  overflow: hidden;
+}
